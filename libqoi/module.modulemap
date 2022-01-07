@@ -1,0 +1,5 @@
+module libqoi [system] {
+    umbrella header "libqoi.h"
+    export *
+    link "qoi"
+}

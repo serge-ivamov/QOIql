@@ -1,0 +1,9 @@
+# macos
+.DS_Store
+Icon
+._*
+
+# xcode
+build
+## User settings
+xcuserdata/
